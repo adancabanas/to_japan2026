@@ -1,0 +1,44 @@
+
+affordables hotels and rooms
+https://smile-hotels.com/?booking_hotel_code=sasebo#reservation
+
+
+--example:
+https://go-smile-hotel-chain.reservation.jp/ja/hotels/sapporosusukinominami/plans/10181389?room_id=10031049&checkin_date=20260426&checkout_date=20260427&adults=2&child1=0&child2=0&child3=0&child4=0&child5=0&children=0&rooms=1&dayuseFlg=0&sort=1&dateUndecidedFlg=0
+
+
+
+Here are the approximate Google links for each hotel location:
+
+Hokkaido
+Smile Hotel Sapporo Susukino Minami
+Smile Hotel Premium Sapporo Susukino
+Smile Hotel Premium Hakodate Goryokaku
+Smile Hotel Kushiro
+Smile Hotel Tomakomai
+Tohoku
+Smile Hotel Aomori
+Smile Hotel Hirosaki
+Smile Hotel Hachinohe
+Smile Hotel Towada
+Smile Hotel Sendai Kokubuncho
+Smile Hotel Sendai Izumi Inter
+Smile Hotel Shiogama
+Smile Hotel Sendai Tagajyo
+Smile Hotel Yonezawa
+Smile Hotel Sakuranbo Higashine
+Smile Hotel Koriyama
+Smile Hotel Shirakawa
+Kanto/Koshinetsu
+Smile Hotel Mito
+Smile Hotel Utsunomiya West Exit Station
+Smile Hotel Utsunomiya East Exit
+Smile Hotel Kumagaya
+Smile Hotel Kawaguchi
+Smile Hotel Kita Asaka
+Smile Hotel Tokyo Nihonbashi
+Smile Hotel Nihonbashi Mitsukoshimae
+Smile Hotel Shinagawa Sengakuji Station
+Smile Hotel Tokyo Asagaya
+Smile Hotel Sugamo
+[Smile Hotel Tokyo Ayase Station](https://www.google.com/maps/search/?api=1&query=Smile+Hotel+Tokyo+Ayase+Station
