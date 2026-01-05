@@ -42,3 +42,229 @@ Smile Hotel Shinagawa Sengakuji Station
 Smile Hotel Tokyo Asagaya
 Smile Hotel Sugamo
 [Smile Hotel Tokyo Ayase Station](https://www.google.com/maps/search/?api=1&query=Smile+Hotel+Tokyo+Ayase+Station
+
+
+---
+title: Accommodation Bookings
+---
+
+import SectionCard from '@site/src/components/Travel/SectionCard';
+
+## Trip Overview
+
+<SectionCard title="Trip Parameters">
+  <ul>
+    <li><strong>Arrival:</strong> Sunday, April 26, 2026</li>
+    <li><strong>Departure:</strong> Saturday, May 9, 2026</li>
+    <li><strong>Travelers:</strong> 2 (me + nephew)</li>
+    <li><strong>Room Type:</strong> Private (1–2 people)</li>
+    <li><strong>Hotel Brand:</strong> Smile Hotel</li>
+  </ul>
+
+  <p>
+    Smile Hotel was chosen for consistency, reliability, good locations,
+    and budget control (no capsules).
+  </p>
+</SectionCard>
+
+---
+
+## Tokyo Area
+
+<SectionCard title="Tokyo — Arrival & Core Base (Apr 26–29)">
+  <p><strong>Hotel:</strong> Smile Hotel Tokyo Nihombashi</p>
+  <p><strong>Location:</strong> Chūō, Tokyo Metropolis</p>
+  <p><strong>Purpose:</strong> Arrival recovery + Tokyo core exploration</p>
+
+  <ul>
+    <li>Direct JR & subway access</li>
+    <li>Central hub for all Tokyo routes</li>
+    <li>Easy Shinkansen access for westbound travel</li>
+  </ul>
+
+  <p>
+    <a href="https://smile-hotels.com/hotel/tokyonihombashi/" target="_blank">
+      Official Website
+    </a>
+    {" · "}
+    <a href="https://maps.google.com/?q=Smile+Hotel+Tokyo+Nihombashi" target="_blank">
+      Google Maps
+    </a>
+  </p>
+</SectionCard>
+
+---
+
+## Saitama (Tokyo Periphery)
+
+<SectionCard title="Kawagoe / Kawaguchi — Edo Day Trip Base (Apr 30)">
+  <p><strong>Hotel:</strong> Smile Hotel Kawaguchi</p>
+  <p><strong>Location:</strong> Kawaguchi, Saitama Prefecture</p>
+  <p><strong>Purpose:</strong> Kawagoe (Little Edo) visit + cheaper overnight</p>
+
+  <ul>
+    <li>~40 min day trip to Kawagoe</li>
+    <li>Lower cost than central Tokyo</li>
+    <li>Direct rail return to Tokyo</li>
+    <li>Staging point before westbound Shinkansen</li>
+  </ul>
+
+  <p>
+    <a href="https://smile-hotels.com/hotel/kawaguchi/" target="_blank">
+      Official Website
+    </a>
+    {" · "}
+    <a href="https://maps.google.com/?q=Smile+Hotel+Kawaguchi" target="_blank">
+      Google Maps
+    </a>
+  </p>
+</SectionCard>
+
+---
+
+## Chūbu Region
+
+<SectionCard title="Nagoya — Ghibli Park Access (May 1)">
+  <p><strong>Hotel:</strong> Smile Hotel Nagoya Shinkansenguchi</p>
+  <p><strong>Location:</strong> Nagoya, Aichi Prefecture</p>
+  <p><strong>Purpose:</strong> Ghibli Park day trip</p>
+
+  <ul>
+    <li>5 minutes from Shinkansen station</li>
+    <li>Optimized for early departure to Ghibli Park</li>
+  </ul>
+
+  <p>
+    <a href="https://smile-hotels.com/hotel/nagoya-shinkansenguchi/" target="_blank">
+      Official Website
+    </a>
+    {" · "}
+    <a href="https://maps.google.com/?q=Smile+Hotel+Nagoya+Shinkansenguchi" target="_blank">
+      Google Maps
+    </a>
+  </p>
+</SectionCard>
+
+---
+
+## Kansai Region
+
+<SectionCard title="Osaka — Entertainment Hub (May 2–3)">
+  <p><strong>Hotel:</strong> Smile Hotel Namba</p>
+  <p><strong>Location:</strong> Osaka, Osaka Prefecture</p>
+
+  <ul>
+    <li>Dotonbori</li>
+    <li>Universal Studios Japan</li>
+    <li>Nijigen no Mori (JoJo Park day trip)</li>
+  </ul>
+
+  <p>
+    <a href="https://smile-hotels.com/hotel/namba/" target="_blank">
+      Official Website
+    </a>
+    {" · "}
+    <a href="https://maps.google.com/?q=Smile+Hotel+Namba" target="_blank">
+      Google Maps
+    </a>
+  </p>
+</SectionCard>
+
+<SectionCard title="Kyoto — Historical Core (May 4–5)">
+  <p><strong>Hotel:</strong> Smile Hotel Kyoto Shijo</p>
+  <p><strong>Location:</strong> Kyoto, Kyoto Prefecture</p>
+
+  <ul>
+    <li>Gion district</li>
+    <li>Arashiyama</li>
+    <li>Temples & historical streets</li>
+    <li>Isekai Izakaya real-world locations</li>
+  </ul>
+
+  <p>
+    <a href="https://smile-hotels.com/hotel/kyoto-shijo/" target="_blank">
+      Official Website
+    </a>
+    {" · "}
+    <a href="https://maps.google.com/?q=Smile+Hotel+Kyoto+Shijo" target="_blank">
+      Google Maps
+    </a>
+  </p>
+</SectionCard>
+
+<SectionCard title="Nara — Slow Pace Stop (May 6)">
+  <p><strong>Hotel:</strong> Smile Hotel Nara</p>
+  <p><strong>Location:</strong> Nara, Nara Prefecture</p>
+
+  <ul>
+    <li>Walkable to Nara Park</li>
+    <li>Close to major temples</li>
+    <li>Calmer overnight pace</li>
+  </ul>
+
+  <p>
+    <a href="https://smile-hotels.com/hotel/nara/" target="_blank">
+      Official Website
+    </a>
+    {" · "}
+    <a href="https://maps.google.com/?q=Smile+Hotel+Nara" target="_blank">
+      Google Maps
+    </a>
+  </p>
+</SectionCard>
+
+---
+
+## Hokkaidō
+
+<SectionCard title="Sapporo — Golden Kamuy Region (May 7)">
+  <p><strong>Hotel:</strong> Smile Hotel Premium Sapporo Susukino</p>
+  <p><strong>Location:</strong> Sapporo, Hokkaidō</p>
+
+  <ul>
+    <li>Golden Kamuy inspiration sites</li>
+    <li>Local food & history</li>
+    <li>Easy Hakodate transfer</li>
+  </ul>
+
+  <p>
+    <a href="https://smile-hotels.com/hotel/premium-sapporo-susukino/" target="_blank">
+      Official Website
+    </a>
+    {" · "}
+    <a href="https://maps.google.com/?q=Smile+Hotel+Premium+Sapporo+Susukino" target="_blank">
+      Google Maps
+    </a>
+  </p>
+</SectionCard>
+
+<SectionCard title="Hakodate — Final Night (May 8)">
+  <p><strong>Hotel:</strong> Smile Hotel Premium Hakodate Goryokaku</p>
+  <p><strong>Location:</strong> Hakodate, Hokkaidō</p>
+
+  <ul>
+    <li>Goryokaku Fort</li>
+    <li>Meiji-era history</li>
+    <li>Quiet final night before departure</li>
+  </ul>
+
+  <p>
+    <a href="https://smile-hotels.com/hotel/premium-hakodate-goryokaku/" target="_blank">
+      Official Website
+    </a>
+    {" · "}
+    <a href="https://maps.google.com/?q=Smile+Hotel+Premium+Hakodate+Goryokaku" target="_blank">
+      Google Maps
+    </a>
+  </p>
+</SectionCard>
+
+---
+
+## Departure
+
+<SectionCard title="Return Home — May 9">
+  <p>
+    Hakodate → Tokyo → International Departure
+  </p>
+</SectionCard>
