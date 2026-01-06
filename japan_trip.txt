@@ -58,12 +58,18 @@ import SectionCard from '@site/src/components/Travel/SectionCard';
     <li><strong>Departure:</strong> Saturday, May 9, 2026</li>
     <li><strong>Travelers:</strong> 2 (me + nephew)</li>
     <li><strong>Room Type:</strong> Private (1–2 people)</li>
-    <li><strong>Hotel Brand:</strong> Smile Hotel</li>
+    <li><strong>Hotel Brands:</strong> Smile Hotel, Dormy Hotels</li>
   </ul>
 
   <p>
     Smile Hotel was chosen for consistency, reliability, good locations,
     and budget control (no capsules).
+
+    https://smile-hotels.com
+    https://dormy-hotels.com/
+  </p>
+  <p>
+    https://dormy-hotels.com/information/reserve_manual/
   </p>
 </SectionCard>
 
@@ -83,7 +89,7 @@ import SectionCard from '@site/src/components/Travel/SectionCard';
   </ul>
 
   <p>
-    <a href="https://smile-hotels.com/hotel/tokyonihombashi/" target="_blank">
+    <a href="https://smile-hotels.com/hotels/show/tokyonihombashi/" target="_blank">
       Official Website
     </a>
     {" · "}
@@ -91,6 +97,8 @@ import SectionCard from '@site/src/components/Travel/SectionCard';
       Google Maps
     </a>
   </p>
+  <p><strong>Smile Hotel Plan:</strong> </p>
+  <p><strong>Dormy Hotel Plan:</strong> https://dormy-hotels.com/reserve/search-room-type-plan?keyword=%E5%BE%92%E5%A3%AB%E3%81%AE%E6%B9%AF%20%E3%83%89%E3%83%BC%E3%83%9F%E3%83%BC%E3%82%A4%E3%83%B3%E4%B8%8A%E9%87%8E%E3%83%BB%E5%BE%A1%E5%BE%92%E7%94%BA&checkin=2026%2F04%2F26&search_by_tag=room_type&tags=74&brands=&order_by=&stock_check=true&keyword_reference=&number_of_nights=4&number_of_rooms=1&hotelId=293&roomTypeId=831&number_of_adults[]=2&number_of_children_need_futons[]=0&number_of_children_no_need_futons[]=0</p>
 </SectionCard>
 
 ---
@@ -110,14 +118,16 @@ import SectionCard from '@site/src/components/Travel/SectionCard';
   </ul>
 
   <p>
-    <a href="https://smile-hotels.com/hotel/kawaguchi/" target="_blank">
+    <a href="https://smile-hotels.com/hotels/show/kawaguchi/" target="_blank">
       Official Website
     </a>
     {" · "}
     <a href="https://maps.google.com/?q=Smile+Hotel+Kawaguchi" target="_blank">
       Google Maps
     </a>
+
   </p>
+  <p><strong>Plan:</strong> https://go-smile-hotel-chain.reservation.jp/ja/hotels/kawaguchi/rooms/10032203?sort=1&plan_id=10106353&checkin_date=20260430&checkout_date=20260501&adults=2&child1=0&child2=0&child3=0&child4=0&child5=0&children=0&rooms=1&dayuseFlg=0&sort=1&dateUndecidedFlg=0</p>
 </SectionCard>
 
 ---
@@ -135,7 +145,7 @@ import SectionCard from '@site/src/components/Travel/SectionCard';
   </ul>
 
   <p>
-    <a href="https://smile-hotels.com/hotel/nagoya-shinkansenguchi/" target="_blank">
+    <a href="https://smile-hotels.com/hotels/show/nagoyashinkansenguchi/" target="_blank">
       Official Website
     </a>
     {" · "}
@@ -143,6 +153,7 @@ import SectionCard from '@site/src/components/Travel/SectionCard';
       Google Maps
     </a>
   </p>
+  <p><strong>Plan:</strong> https://go-smile-hotel-chain.reservation.jp/ja/hotels/nagoyashinkansenguchi/rooms/10031894?sort=1&plan_id=10105359&checkin_date=20260501&checkout_date=20260502&adults=2&child1=0&child2=0&child3=0&child4=0&child5=0&children=0&rooms=1&dayuseFlg=0&sort=1&dateUndecidedFlg=0</p>
 </SectionCard>
 
 ---
@@ -160,7 +171,7 @@ import SectionCard from '@site/src/components/Travel/SectionCard';
   </ul>
 
   <p>
-    <a href="https://smile-hotels.com/hotel/namba/" target="_blank">
+    <a href="https://smile-hotels.com/hotels/show/namba/" target="_blank">
       Official Website
     </a>
     {" · "}
@@ -168,6 +179,8 @@ import SectionCard from '@site/src/components/Travel/SectionCard';
       Google Maps
     </a>
   </p>
+  <p><strong>Plan:</strong> https://go-smile-hotel-chain.reservation.jp/ja/hotels/namba/rooms/10031802?sort=1&plan_id=10104925&checkin_date=20260502&checkout_date=20260504&adults=2&child1=0&child2=0&child3=0&child4=0&child5=0&children=0&rooms=1&dayuseFlg=0&sort=1&dateUndecidedFlg=0</p>
+
 </SectionCard>
 
 <SectionCard title="Kyoto — Historical Core (May 4–5)">
@@ -182,13 +195,14 @@ import SectionCard from '@site/src/components/Travel/SectionCard';
   </ul>
 
   <p>
-    <a href="https://smile-hotels.com/hotel/kyoto-shijo/" target="_blank">
+    <a href="https://smile-hotels.com/hotels/show/kyotoshijo/" target="_blank">
       Official Website
     </a>
     {" · "}
     <a href="https://maps.google.com/?q=Smile+Hotel+Kyoto+Shijo" target="_blank">
       Google Maps
     </a>
+    <p><strong>Plan:</strong> https://go-smile-hotel-chain.reservation.jp/ja/hotels/kyotoshijo/rooms/10031734?sort=1&plan_id=10104734&checkin_date=20260504&checkout_date=20260506&adults=2&child1=0&child2=0&child3=0&child4=0&child5=0&children=0&rooms=1&dayuseFlg=0&sort=1&dateUndecidedFlg=0</p>
   </p>
 </SectionCard>
 
@@ -203,7 +217,7 @@ import SectionCard from '@site/src/components/Travel/SectionCard';
   </ul>
 
   <p>
-    <a href="https://smile-hotels.com/hotel/nara/" target="_blank">
+    <a href="https://smile-hotels.com/hotels/show/nara/" target="_blank">
       Official Website
     </a>
     {" · "}
@@ -211,6 +225,9 @@ import SectionCard from '@site/src/components/Travel/SectionCard';
       Google Maps
     </a>
   </p>
+  <p><strong>Smile Hotel Plan:</strong> There are no rooms available for reservation</p>
+  <p><strong>Dormy Hotel Plan:</strong> https://dormy-hotels.com/reserve/search-plan-room?keyword=%E5%A4%A9%E7%84%B6%E6%B8%A9%E6%B3%89%20%E5%90%89%E9%87%8E%E6%A1%9C%E3%81%AE%E6%B9%AF%20%E5%BE%A1%E5%AE%BF%20%E9%87%8E%E4%B9%83%E5%A5%88%E8%89%AF&checkin=2026%2F05%2F06&number_of_nights=1&number_of_rooms=1&search_by_tag=plan&tags=&brands=&order_by=&hotelId=220&planId=7857&number_of_adults[]=2&number_of_children_need_futons[]=0&number_of_children_no_need_futons[]=0</p>
+
 </SectionCard>
 
 ---
@@ -228,7 +245,7 @@ import SectionCard from '@site/src/components/Travel/SectionCard';
   </ul>
 
   <p>
-    <a href="https://smile-hotels.com/hotel/premium-sapporo-susukino/" target="_blank">
+    <a href="https://smile-hotels.com/hotels/show/sapporosusukino" target="_blank">
       Official Website
     </a>
     {" · "}
@@ -236,6 +253,7 @@ import SectionCard from '@site/src/components/Travel/SectionCard';
       Google Maps
     </a>
   </p>
+  <p><strong>Plan:</strong> https://go-smile-hotel-chain.reservation.jp/ja/hotels/sapporosusukino/rooms/10032119?sort=1&plan_id=10106026&checkin_date=20260507&checkout_date=20260508&adults=2&child1=0&child2=0&child3=0&child4=0&child5=0&children=0&rooms=1&dayuseFlg=0&sort=1&dateUndecidedFlg=0</p>
 </SectionCard>
 
 <SectionCard title="Hakodate — Final Night (May 8)">
@@ -249,7 +267,7 @@ import SectionCard from '@site/src/components/Travel/SectionCard';
   </ul>
 
   <p>
-    <a href="https://smile-hotels.com/hotel/premium-hakodate-goryokaku/" target="_blank">
+    <a href="https://smile-hotels.com/hotels/show/hakodategoryokaku/" target="_blank">
       Official Website
     </a>
     {" · "}
@@ -257,6 +275,8 @@ import SectionCard from '@site/src/components/Travel/SectionCard';
       Google Maps
     </a>
   </p>
+  <p><strong>Plan:</strong> </p>
+  <p><strong>Plan:</strong> https://go-smile-hotel-chain.reservation.jp/ja/hotels/hakodategoryokaku/rooms/10033897?plan_id=10114196&checkin_date=20260508&checkout_date=20260509&adults=2&child1=0&child2=0&child3=0&child4=0&child5=0&children=0&rooms=1&dayuseFlg=0&sort=1&dateUndecidedFlg=0</p>
 </SectionCard>
 
 ---
