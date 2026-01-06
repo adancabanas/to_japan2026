@@ -288,3 +288,86 @@ import SectionCard from '@site/src/components/Travel/SectionCard';
     Hakodate → Tokyo → International Departure
   </p>
 </SectionCard>
+
+
+Trip Overview
+Arrival: Sunday, April 26, 2026
+Departure: Saturday, May 9, 2026
+Travelers: 2 (me + nephew)
+Room Type: Private (1–2 people)
+Hotel Brands: Smile Hotel, Dormy Hotels
+Smile Hotel is preferred for its reliability, good locations, and budget control. More information can be found on their websites: Smile Hotels and Dormy Hotels.
+
+Tokyo Area (Apr 26–29)
+Hotel: Smile Hotel Tokyo Nihombashi
+Location: Chūō, Tokyo Metropolis
+Purpose: Arrival recovery and exploration
+Highlights:
+Direct JR & subway access
+Central hub for all Tokyo routes
+Easy access to Shinkansen for westbound travel
+Nearby Attractions:
+Tokyo Tower
+Tokyo Skytree
+TeamLab Borderless
+Disneyland Tokyo
+Hello Kitty Park
+Nintendo Park
+Links: Official Website, Google Maps
+Saitama (Tokyo Periphery)
+Kawagoe / Kawaguchi — Edo Day Trip Base (Apr 30)
+Hotel: Smile Hotel Kawaguchi
+Location: Kawaguchi, Saitama Prefecture
+Purpose: Visit Kawagoe (Little Edo) + cost-effective overnight stay
+Highlights:
+~40 min trip to Kawagoe
+Lower cost compared to central Tokyo
+Direct rail connection back to Tokyo
+Nearby Attractions:
+Yokai Town
+Daikoku Park
+Links: Official Website, Google Maps
+Chūbu Region
+Nagoya — Ghibli Park Access (May 1)
+Hotel: Smile Hotel Nagoya Shinkansenguchi
+Location: Nagoya, Aichi Prefecture
+Purpose: Day trip to Ghibli Park
+Highlights:
+5 minutes from Shinkansen station
+Optimized for early departure
+Nearby Attractions:
+Ghibli Studios
+Gundam Robot
+Evangelion 01 EVA
+Mount Fuji (accessible for day trips)
+Links: Official Website, Google Maps
+Kansai Region
+Osaka — Entertainment Hub (May 2–3)
+Hotel: Smile Hotel Namba
+Location: Osaka, Osaka Prefecture
+Highlights:
+Proximity to Dotonbori, Universal Studios Japan, and Nijigen no Mori (JoJo Park)
+Nearby Attractions:
+The JoJo World
+Links: Official Website, Google Maps
+Kyoto — Historical Core (May 4–5)
+Hotel: Smile Hotel Kyoto Shijo
+Location: Kyoto, Kyoto Prefecture
+Highlights:
+Near Gion district, Arashiyama, and historical sites
+Links: Official Website, Google Maps
+Nara — Slow Pace Stop (May 6)
+Hotel: Smile Hotel Nara
+Location: Nara, Nara Prefecture
+Highlights:
+Walkable to Nara Park and major temples
+Calmer pace for overnight stay
+Links: Official Website, Google Maps
+Hokkaidō
+Sapporo — Golden Kamuy Region (May 7)
+Hotel: Smile Hotel Premium Sapporo Susukino
+Location: Sapporo, Hokkaid
+
+
+
+
